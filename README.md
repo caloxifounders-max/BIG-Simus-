@@ -12,3 +12,6 @@ This is a simple educational slot machine simulator.
 
 ## How to Run
 Open `index.html` in your browser.
+## Contrubuting
+-Contrubuting Is Easy 
+-Type your name here👇
