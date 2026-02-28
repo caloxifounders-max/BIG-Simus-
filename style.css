@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: #111;
+    color: white;
+}
+
+.slot span {
+    font-size: 50px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
